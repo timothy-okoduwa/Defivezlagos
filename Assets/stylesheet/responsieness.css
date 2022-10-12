@@ -1,4 +1,17 @@
 @media screen and (max-width:991px) {
+    .board{
+        text-align: center;
+        font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 40px;
+    }
+    .nanaa{
+        text-align: center;
+        font-weight: 200;
+        font-family: 'Fira Sans', sans-serif;
+        font-size: 17px;
+    }
     .switch{
         display: flex;
         flex-direction: column-reverse;
