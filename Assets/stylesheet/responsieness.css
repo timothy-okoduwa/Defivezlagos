@@ -1,0 +1,120 @@
+@media screen and (max-width:991px) {
+    .switch{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .nav1{
+        display: none;
+    }
+    .pushs{
+        padding-bottom: 130px;
+     }
+     .culture{
+        /* font-family: 'Gilda Display', serif;          */
+        font-family: 'Nunito';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 18px;
+        margin-top: 20px;
+        text-align: center;
+        width: 100%;
+     }
+     .inspired{
+    
+        color: #878787;
+        font-family: 'Fraunces';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 26px;
+        text-align: center;
+     }
+}
+@media screen and (min-width:990px) {
+    .navbar{
+        display: none !important;
+    }
+}
+@media screen and (max-width:768px) {
+    .exceptx{
+        width: 70%;
+        padding-left: 10%;
+        
+            top: 100px;
+            position: relative;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            font-family: 'Fraunces';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 28px;
+            color: #ffffff;
+             }
+    .noway{
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 15px;
+     }
+}
+
+/* @media screen and (max-width:425px) {   
+
+    .except{
+        z-index: 9;
+        top: 65px;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        font-family: 'Fraunces';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+
+text-transform: uppercase;
+
+color: #FFFFFF;
+         }
+} */
+@media screen and (min-width:1440px) {   
+
+    .except{
+        z-index: 9;
+        top: 300px;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        font-family: 'Fraunces';
+font-style: normal;
+font-weight: 300;
+font-size: 80px;
+
+text-transform: uppercase;
+
+color: #FFFFFF;
+         }
+}
+@media screen and (max-width:768px) {   
+
+    .except{
+        z-index: 9;
+        top: 65px;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        font-family: 'Fraunces';
+font-style: normal;
+font-weight: 300;
+font-size: 25px;
+
+text-transform: uppercase;
+
+color: #FFFFFF;
+         }
+}

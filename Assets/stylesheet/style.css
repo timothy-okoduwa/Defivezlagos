@@ -1,0 +1,729 @@
+.ppp{
+    padding-right: 25%;
+}
+.navbar{
+    background-color: #964B14;
+    color:white;
+position: absolute;
+    width: 100%;
+}
+.fontss{
+    font-size: 16px !important;
+    font-family: 'Fraunces'!important;
+    font-style: normal !important;
+    font-weight: 500 !important;
+  
+}
+.capping{
+margin-bottom: 30%;
+}
+.logo{
+    margin-top: 10px;
+    width:52%
+    }
+.icon{
+
+    width: 100px;
+   }
+.image-card{
+    height: 250px;
+    width: 340px;
+}
+.roomss{
+    text-align: center;
+    cursor: pointer;
+    margin-top: 20px;
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 300;
+}
+.virtual{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom : 90px;
+    font-weight: 300;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 20px;
+}
+.books{
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 50px;
+font-weight: 300;
+}
+.quote{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom : 20px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+}
+.line{
+display: flex;
+justify-content: center;
+padding-top:10px ;
+}
+.pain{
+    width: 80px;
+    border-bottom: 1px solid rgb(0, 0, 0);
+}
+.form-controla{
+    background-color: #dfdcdc30 !important;
+height: 60px !important;
+width: 100% !important;
+outline: none !important;
+padding: 20px !important;
+border: none !important;
+border-radius: none !important;
+font-family: 'Fira Sans', sans-serif !important;
+}
+
+.form-control1{
+    background-color: #dfdcdc30  !important;
+    width: 100% !important;
+    outline: none !important;
+    /* color: rgb(215, 215, 215) !important; */
+    padding: 20px !important;
+border: none !important;
+border-radius: none !important;
+font-family: 'Fira Sans', sans-serif !important;
+}
+.buttondd{
+    width: 100%;
+    background: #ffffff00;
+    border: 1px solid #f77706;
+    outline: none;
+    color: rgb(0, 0, 0);
+padding: 10px;
+font-weight: 300;
+font-family: 'Fira Sans', sans-serif;
+font-size: 20px;
+}
+
+.suite{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+font-size: 20px;
+}
+.ft{
+    font-weight: 200;
+font-family: 'Fira Sans', sans-serif;
+font-size: 15px;
+padding-left: 10px;
+}
+.booknow{
+    width: 100%;
+    background-color:#BF712B;
+    outline: none;
+    border: none;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 35px;
+padding: 10px;
+font-weight: 700;
+color: white;
+font-family: 'Fira Sans', sans-serif;
+font-size: 15px;
+}
+.booknow2{
+    width: 275px;
+    background-color:#BF712B;
+    outline: none;
+    border: none;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 35px;
+padding: 10px;
+font-weight: 200;
+color: white;
+font-family: 'Fira Sans', sans-serif;
+font-size: 17px;
+}
+.Kard{
+    background: #FFFFFF;
+    box-shadow: 0px 3.70795px 22.2477px rgba(0, 0, 0, 0.12);
+    border-radius: 5px;
+    padding: 5px;
+}
+.Kard2{
+    background: #FFFFFF;
+    box-shadow: 0px 3.70795px 22.2477px rgba(0, 0, 0, 0.12);
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 10%;
+}
+.explore{
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.clients{
+    text-align: center;
+    font-weight: 300;
+    font-family: 'Nunito', sans-serif;
+font-size: 32px;
+}
+
+
+
+.boggy{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav1{
+    background-color: #ffffff;
+    /* color:white; */
+    height: 96px;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    position: fixed;
+    border-bottom:1px solid #e8e8ee8e ;
+    z-index: 1;
+
+}
+.carousel{
+    margin-top: 32px 
+    !important;
+    /* z-index:-1  !important; */
+}
+.carousel-item{
+      z-index:-1  !important;
+}
+.namess{
+    font-family: 'Oxygen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    /* text-transform: uppercase; */
+    color: #000000;
+}
+.logos{
+background-color: red;
+height: 120px;
+width: 120px;
+margin-top: 20px;
+
+}
+.sters{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.clientalks{
+    background-color: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10%;
+}
+.rating{
+    height: 70%;
+    width: 70%;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center; 
+    color: #FFFFFF;
+    
+}
+.okpop{
+    width: 20%;
+    background-color:#BF712B;
+    outline: none;
+    border: none;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 35px;
+padding: 10px;
+font-weight: 700;
+color: white;
+font-family: 'Fira Sans', sans-serif;
+font-size: 15px;
+}
+.okpop2{
+    width: 50%;
+    background-color:#ffffff;
+    outline: none;
+    border: none;
+    display: flex;
+    justify-content: center;
+    border: 1px solid #BF712B;
+    text-align: center;
+    margin-top: 35px;
+padding: 10px;
+color: rgb(0, 0, 0);
+font-family: 'Fraunces';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+}
+.whitee{
+    display: flex;
+    justify-content: center;
+    padding: 15%;
+}
+.boxes1{
+    background-color: #F9F9F9;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.boxes2{
+    object-fit: cover;
+    height: 400px;
+}
+.boxes3{
+object-fit: cover;
+    height: 400px;
+}
+.boxes4{
+    background-color: #F9F9F9;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.textholder{
+    margin-top: 20px;
+    height: 30%;
+    width: 70%;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #333333;  
+}
+.line{
+    display: flex;
+    justify-content: center;
+    padding-top:10px ;
+    }
+    .pain2{
+        width: 120px;
+        border-bottom: 1px solid #F5BE8D;
+    }
+    .luxery{
+        text-align: center;
+        margin-top: 20px;   
+font-family: 'Fraunces';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+    }
+    .Testimonals{
+        text-align: center;
+ 
+        font-family: 'Fraunces';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 36px;
+        text-align: center;     
+        color: #FFFFFF;
+    }
+    .rooms{
+font-family: 'Fraunces';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+text-align: center;
+color: #000000;
+    }
+ .bigfoot{
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+ }
+ .address{
+    /* background-color: green; */
+    height: 40%;
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+text-align: center;
+color: #FFFFFF;
+ }
+ .flexup{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+ }
+ .noway{
+    font-family: 'Nunito';
+    display: flex;
+    flex-wrap: wrap;
+    font-style: normal;
+font-weight: 400;
+font-size: 16px;
+color: #FFFFFF;
+ }
+ .copy{
+    font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+color: #FFFFFF;
+ }
+
+ .inspired{
+    
+    color: #878787;
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    /* margin-bottom: 70px; */
+ }
+ .culture{
+    /* font-family: 'Gilda Display', serif;          */
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    margin-top: 20px;
+    width: 90%;
+ }
+ .pushs{
+    padding-top: 130px;
+ }
+
+ .bigRoom{
+    /* background-color: red; */
+    position: absolute !important;
+ }
+ .except{
+z-index: 9;
+top: 150px;
+position: relative;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+font-family: 'Fraunces';
+font-style: normal;
+font-weight: 300;
+font-size: 80px;
+
+text-transform: uppercase;
+
+color: #ffffff;
+ }
+
+ .buttroom{
+    width: 200px;
+    background: #ffffff00;
+    border: 1px solid #FFFFFF;
+    outline: none;
+    color: white;
+padding: 10px;
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+}
+.black{
+    height:530px;
+    background-color: #1C1C1C;
+    width: 120px;
+margin: 20px;
+
+    /* border-radius: 5px; */
+
+}
+.ftests{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-top: 30px;
+    /* background-color: green; */
+}
+.secondtest{
+
+    background-color: #151515;
+    color: white;
+    margin: 10px;
+    height: 200px;
+    width: 135px;
+}
+.details{
+    /* background-color: red; */
+    margin-top: 60px;
+}
+
+.standard{
+    font-family: 'Fraunces';
+font-style: normal;
+font-weight: 300;
+font-size: 50px;
+}
+.lag{
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 20px;
+}
+.nana{
+    text-align: center;
+    font-weight: 200;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 17px;
+}
+.boyest{
+    text-align: center; 
+}
+.classic{
+    text-align: center;
+    font-weight: 200;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 18px;
+    padding: 25px;
+}
+.Angle{
+    text-align: center;
+    font-weight: 400;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 22px;
+    /* padding: 25px; */
+}
+.services{
+    font-weight: 300;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 22px;
+    padding: 25px;
+}
+.kingsized{
+    font-weight: 200;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 18px;
+}
+
+.booknow3{
+    width: 300px;
+    background-color:#BF712B;
+    outline: none;
+    border: none;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 35px;
+padding: 10px;
+font-weight: 300;
+color: white;
+font-family: 'Fira Sans', sans-serif;
+font-size: 15px;
+}
+.aboyts{
+    margin-top: 70px;
+}
+.board{
+    font-family: 'Fraunces';
+font-style: normal;
+font-weight: 300;
+font-size: 40px;
+}
+.ssves{
+    background-color: #F9F9F9;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.offers{
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 40px;
+    text-align: center; 
+}
+.courtesy{
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    text-align: center;  
+}
+.okey{
+    text-align: center;
+    font-weight: 300;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 18px;
+    padding: 10px;  
+}
+
+.parallax{
+    background-image: url("../images/Aquarium.png");
+    /* Set a specific height */
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.exceptx{
+width: 70%;
+padding-left: 10%;
+
+    top: 170px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    color: #ffffff;
+     }
+     .boxes{
+        /* background-color: red; */
+        margin-top: 40px;
+     }
+     .rest{
+        display: flex;
+        /* justify-content: space-around; */
+        padding-top: 15px;
+        padding-bottom: 15px;
+        font-weight: 200;
+        font-family: 'Fira Sans', sans-serif;
+        font-size: 18px;
+     }
+     .connet{
+        /* text-align: center; */
+        font-weight: 300;
+        font-family: 'Fira Sans', sans-serif;
+        font-size: 25px;
+        /* padding: 10px;  */
+     }
+     .buttonddc{
+        width: 100%;
+        background: #ffffff00;
+        border: 1px solid #f77706;
+        outline: none;
+        color: rgb(0, 0, 0);
+    padding: 10px;
+    font-weight: 300;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 20px;
+    }
+    .form-controla3{
+        background-color: #F9F9F9 !important;
+    height: 60px !important;
+    width: 100% !important;
+    outline: none !important;
+    border: none !important;
+    padding: 20px !important;
+    border-radius: none !important;
+    font-family: 'Fira Sans', sans-serif !important;
+    }
+    .form-control11{
+        background-color: #F9F9F9 !important;
+        width: 100% !important;
+        outline: none !important;
+      padding: 20px !important;
+    border: none !important;
+    border-radius: none !important;
+    font-family: 'Fira Sans', sans-serif !important;
+    }
+    .lob{
+        border: 1px solid #e1dede;
+        border-radius: 5px;
+        padding: 25px;
+    }
+    .space{
+        text-align: center;
+        font-weight: 400;
+        font-family: 'Fira Sans', sans-serif;
+        font-size: 25px;
+    }
+    .nanat{
+        /* text-align: center; */
+        font-weight: 200;
+        font-family: 'Fira Sans', sans-serif;
+        font-size: 18px;
+        padding: 30px;
+    }
+
+    .parallax2{
+        background-image: url("../images/hotellobby.jpeg");
+        /* Set a specific height */
+        min-height: 500px;
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+    }
+
+
+
+
+
+    .float{
+        position:fixed;
+        width:250px;
+        height:50px;
+        bottom:40px;
+        right:40px;
+        background-color:#000000;
+        color:#FFF;
+        border-radius:50px;
+        text-align:center;
+      font-size:30px;
+      text-decoration: none !important;
+      color: white!important;
+      z-index:100;
+    }
+    
+    .my-float{
+        margin-top:-10px !important;
+        font-size: 25px !important;
+        text-decoration: none !important;
+        color: white!important;
+    }
+    .howcan{
+        /* margin-top:-40px !important; */
+        font-size: 18px !important;
+        text-decoration: none !important;
+        color: white!important;
+    }
+    .total{
+        text-align: center;
+        padding-top: 30px;
+        font-weight: 200;
+        font-family: 'Fira Sans', sans-serif;
+        font-size: 18px;
+    }
+ .twenty{
+    font-size: 70px !important;
+    font-family: 'Fraunces'!important;
+    font-style: normal !important;
+    font-weight: 500 !important;
+    text-align: center;
+    padding-top: 20px;
+ }
+    .blury{
+        padding-left: 80px;
+    }
