@@ -343,7 +343,7 @@ object-fit: cover;
 }
 .textholder{
     margin-top: 20px;
-    height: 30%;
+    /* height: 30%; */
     width: 70%;
     font-family: 'Fira Sans', sans-serif;
     font-style: normal;
