@@ -476,6 +476,16 @@ text-transform: uppercase;
 
 color: #ffffff;
  }
+ .barr{
+    font-family: 'Fraunces';
+font-style: normal;
+font-weight: 300;
+font-size: 45px;
+/* background-color: red; */
+text-transform: uppercase;
+
+color: #ffffff;
+ }
  .exceptance{
 z-index: 10;
 top: 1px;

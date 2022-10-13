@@ -1,4 +1,21 @@
 @media screen and (max-width:991px) {
+    .textholder{
+        margin-top: 20px;
+        /* height: 30%; */
+        width: 90%;
+        font-family: 'Fira Sans', sans-serif;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 16px;
+        color: #333333;  
+    }
+    .books{
+        text-align: center;
+        margin-top: 20px;
+        font-family: 'Fraunces'!important;
+        font-size: 36px;
+    font-weight: 400;
+    }
     .bigfoot{
         background-color: rgb(0, 0, 0);
         text-align: center;
@@ -104,7 +121,7 @@
         font-family: 'Fraunces';
         font-style: normal;
         font-weight: 400;
-        font-size: 26px;
+        font-size: 36px;
         text-align: center;
      }
 }
