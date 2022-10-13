@@ -1,4 +1,11 @@
 @media screen and (max-width:991px) {
+    .connet{
+        /* text-align: center; */
+        font-weight: 300;
+        font-family: 'Fira Sans', sans-serif;
+        font-size: 25px;
+        padding-top: 90px; 
+     }
     .board{
         text-align: center;
         font-family: 'Fraunces';
