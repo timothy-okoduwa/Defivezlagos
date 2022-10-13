@@ -32,7 +32,7 @@ margin-bottom: 30%;
 .roomss{
     text-align: center;
     cursor: pointer;
-    margin-top: 24px;
+    margin-top: 24px !important;
     font-family: 'Fira Sans', sans-serif;
     font-weight: 300;
 }
@@ -67,6 +67,10 @@ padding-top:10px ;
 .pain{
     width: 80px;
     border-bottom: 1px solid rgb(0, 0, 0);
+}
+.pain3{
+    width: 80px;
+    border-bottom: 1px solid rgb(255, 255, 255);
 }
 .form-controla{
     background-color: #dfdcdc30 !important;
