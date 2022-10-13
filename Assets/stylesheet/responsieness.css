@@ -99,6 +99,24 @@ color: #FFFFFF;
          }
 } */
 @media screen and (min-width:1440px) {   
+    .exceptance{
+        z-index: 10;
+        top: 1px;
+        
+        /* position: relative; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        font-family: 'Fraunces';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 80px;
+        /* background-color: red; */
+        text-transform: uppercase;
+        
+        color: #ffffff;
+         }
 
     .except{
         z-index: 9;

@@ -72,6 +72,10 @@ padding-top:10px ;
     width: 80px;
     border-bottom: 1px solid rgb(255, 255, 255);
 }
+.pain3rooms{
+    width: 150px;
+    border-bottom: 1px solid rgb(255, 255, 255);
+}
 .form-controla{
     background-color: #dfdcdc30 !important;
 height: 60px !important;
@@ -466,6 +470,24 @@ font-family: 'Fraunces';
 font-style: normal;
 font-weight: 300;
 font-size: 80px;
+/* background-color: red; */
+text-transform: uppercase;
+
+color: #ffffff;
+ }
+ .exceptance{
+z-index: 10;
+top: 1px;
+
+/* position: relative; */
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+font-family: 'Fraunces';
+font-style: normal;
+font-weight: 300;
+font-size: 45px;
 /* background-color: red; */
 text-transform: uppercase;
 
