@@ -102,7 +102,7 @@ color: #FFFFFF;
 
     .except{
         z-index: 9;
-        top: 300px;
+        /* top: 300px; */
         position: relative;
         display: flex;
         justify-content: center;

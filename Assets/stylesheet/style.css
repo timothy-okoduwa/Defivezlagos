@@ -451,8 +451,9 @@ color: #FFFFFF;
  }
  .except{
 z-index: 10;
-top: 60px;
-position: relative;
+top: 1px;
+
+/* position: relative; */
 display: flex;
 justify-content: center;
 align-items: center;
@@ -461,11 +462,12 @@ font-family: 'Fraunces';
 font-style: normal;
 font-weight: 300;
 font-size: 80px;
-
+/* background-color: red; */
 text-transform: uppercase;
 
 color: #ffffff;
  }
+
 
  .buttroom{
     width: 200px;
