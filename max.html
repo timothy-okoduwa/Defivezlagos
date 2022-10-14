@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+	<title>How to set maxlength for textarea in javascript?</title>
+
+</head>
+
+<body>
+
+
+
+<div >
+
+
+
+	<form>
+
+		<textarea  name="message" placeholder="Write Here..." onkeydown="limitTextOnKeyUpDown(this.form.message,this.form.countdown,160);" onkeyup='limitTextOnKeyUpDown(this.form.message,this.form.countdown,160);'></textarea>
+
+        You have
+
+        <input readonly type="text" name="countdown" size="3" value="160"> chars are left
+
+	</form>
+
+
+
+</div>
+
+
+
+<script type="text/javascript">
+
+    function limitTextOnKeyUpDown(limitField, limitCount, limitNum) {
+
+      if (limitField.value.length > limitNum) {
+
+        limitField.value = limitField.value.substring(0, limitNum);
+
+      } else {
+
+        limitCount.value = limitNum - limitField.value.length;
+
+      }
+
+    }
+
+</script>
+
+
+
+</body>
+
+</html>

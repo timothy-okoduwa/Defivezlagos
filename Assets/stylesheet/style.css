@@ -833,3 +833,13 @@ padding-left: 10%;
         font-family: 'Fira Sans', sans-serif;
         font-size: 17px;
     }
+    .rounderd{
+        border-radius: 20px;
+        height: 40px;
+        width: 40px;
+        font-weight: 200;
+        font-family: 'Fira Sans', sans-serif;
+        font-size: 17px;
+        border: 1px solid #964B14;
+        text-align: center;
+    }
