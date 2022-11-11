@@ -231,7 +231,18 @@ color: #FFFFFF;
     .mbok:hover { transform: none; }
 
 
-
+    .mbok2{
+        -moz-transition:none;
+        -webkit-transition:none;
+        transition:none; 
+    }
+    .mbok2:hover { 
+        -webkit-transform: none;
+        -moz-transform: none;
+        -o-transform: none;
+        -ms-transform: none;
+        transform: none;
+    }
 
 
     .image-card{
