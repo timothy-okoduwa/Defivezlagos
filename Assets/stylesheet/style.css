@@ -629,10 +629,10 @@ font-size: 50px;
     text-align: center; 
 }
 .classic{
-    text-align: center;
+    text-align: start;
     font-weight: 200;
     font-family: 'Fira Sans', sans-serif;
-    font-size: 18px;
+    font-size: 16px;
     padding: 25px;
 }
 .Angle{
