@@ -28,7 +28,18 @@ margin-bottom: 30%;
 .image-card{
     height: 250px;
     width: 340px;
+    transition: all .2s ease-in-out;  
 }
+.image-card:hover { transform: scale(1.1); }
+
+
+.mbok{
+    transition: all .2s ease-in-out;   
+}
+.mbok:hover { transform: scale(1.1); }
+
+
+
 .roomss{
     text-align: center;
     cursor: pointer;
@@ -128,11 +139,18 @@ font-size: 20px;
     font-weight: 400;
 font-size: 20px;
 }
+.suite2{
+    font-family: 'Fraunces', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+font-size: 28px;
+}
 .ft{
     font-weight: 200;
 font-family: 'Fira Sans', sans-serif;
 font-size: 15px;
-padding-left: 10px;
+
+
 }
 .booknow{
     width: 100%;
@@ -169,14 +187,21 @@ font-size: 17px;
     box-shadow: 0px 3.70795px 22.2477px rgba(0, 0, 0, 0.12);
     border-radius: 5px;
     padding: 5px;
+   transition: all .2s ease-in-out; 
+
 }
+.Kard:hover { transform: scale(1.1); }
+
 .Kard2{
     background: #FFFFFF;
     box-shadow: 0px 3.70795px 22.2477px rgba(0, 0, 0, 0.12);
     border-radius: 5px;
     padding: 5px;
     margin-top: 10%;
+    transition: all .2s ease-in-out; 
 }
+.Kard2:hover { transform: scale(1.1); }
+
 .explore{
     display: flex;
     justify-content: center;
@@ -396,18 +421,50 @@ color: #000000;
     padding-top: 5%;
     padding-bottom: 3%;
  }
- .address{
-    /* background-color: green; */
+.hott{
+   color: #ffffff;
+    /* font-family: 'Fraunces'; */
+     
+    font-family: 'Fira Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
     height: 40%;
-    width: 30%;
     display: flex;
     justify-content: center;
+    align-items: center;
+}
+.plot{
+     font-family: 'Fraunces';
+     font-style: normal;
+     font-weight: 200;
+     font-size: 20px;
+     display: flex;
+     height: 60%;
+     /* background-color: #25d366; */
+     justify-content: center;
+     align-items: flex-end;
+}
+ .lost{
+    /* background-color: red; */
+    height: 100%;
+    color: #FFFFFF;
+ }
+ .omo{
+    /* background-color: #25d366; */
+    
+    justify-content: space-between;
+ }
+ .address{
+
+ 
     font-family: 'Fira Sans', sans-serif;
 font-style: normal;
 font-weight: 200;
 font-size: 16px;
 text-align: center;
 color: #FFFFFF;
+margin-top:100px
  }
  .flexup{
     display: flex;
@@ -519,10 +576,11 @@ font-weight: 300;
 font-size: 16px;
 }
 .black{
-    height:530px;
+    /* height:530px; */
     background-color: #1C1C1C;
-    width: 120px;
-margin: 20px;
+    /* width: 120px; */
+margin: 30px;
+
 
     /* border-radius: 5px; */
 
@@ -533,6 +591,7 @@ margin: 20px;
     flex-wrap: wrap;
     align-items: center;
     padding-top: 30px;
+    padding-bottom: 30px;
     /* background-color: green; */
 }
 .secondtest{
@@ -541,7 +600,7 @@ margin: 20px;
     color: white;
     margin: 10px;
     height: 200px;
-    width: 135px;
+    width: 450px;
 }
 .details{
     /* background-color: red; */
@@ -647,7 +706,7 @@ font-size: 40px;
 }
 
 .parallax{
-    background-image: url("../images/Aquarium.png");
+    background-image: url("../images/gallery.jpeg");
     /* Set a specific height */
     min-height: 500px;
     background-attachment: fixed;
@@ -842,4 +901,28 @@ padding-left: 10%;
         font-size: 14px;
         border: 1px solid #964B14;
         text-align: center;
+    }
+    .shocker{
+        display: flex;
+        justify-content: space-between;
+    }
+    .from{
+        font-weight: 200;
+        font-family: 'Fira Sans', sans-serif;
+        font-size: 16px;
+    }
+    .pprice{
+        font-family: 'Fraunces'!important;
+        font-style: normal !important;
+        font-weight: 500 !important;
+        font-size: 27px;
+    }
+    .dumped{
+        display: flex;
+        /* background-color: green; */
+        justify-content: center;
+    }
+    .mdmd{
+        /* background-color: yellow; */
+      text-align: center;
     }

@@ -225,6 +225,49 @@ color: #FFFFFF;
 }
 @media screen and (max-width:768px) {   
 
+    .mbok{
+        transition: none;   
+    }
+    .mbok:hover { transform: none; }
+
+
+
+
+
+    .image-card{
+        height: 250px;
+        width: 340px;
+        transition: none;  
+    }
+    .image-card:hover { transform: none; }
+    
+
+
+    .Kard{
+        background: #FFFFFF;
+        box-shadow: 0px 3.70795px 22.2477px rgba(0, 0, 0, 0.12);
+        border-radius: 5px;
+        padding: 5px;
+       transition: none; 
+    
+    }
+    .Kard:hover { transform: none; }
+    
+    .Kard2{
+        background: #FFFFFF;
+        box-shadow: 0px 3.70795px 22.2477px rgba(0, 0, 0, 0.12);
+        border-radius: 5px;
+        padding: 5px;
+        margin-top: 10%;
+        transition: none; 
+    }
+    .Kard2:hover { transform: none; }
+
+
+
+
+
+
     .except{
         z-index: 9;
         top: 65px;
