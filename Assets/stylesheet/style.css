@@ -1,8 +1,11 @@
 .ppp{
     padding-right: 25%;
 }
+.navbar-toggler{
+background-color: white !important;
+}
 .navbar{
-    background-color: #964B14;
+    background-color: #2D2B2B;
     color:white;
 position: absolute;
     width: 100%;
@@ -843,7 +846,10 @@ padding-left: 10%;
     }
 
 
-
+    .wewcan {
+        display: block !important;
+        /* color: pink !important; */
+    }
 
 
     .float{

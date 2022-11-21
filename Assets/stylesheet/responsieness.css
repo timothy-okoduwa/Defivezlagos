@@ -225,6 +225,53 @@ color: #FFFFFF;
 }
 @media screen and (max-width:768px) {   
 
+    .standard{
+        font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    margin-left: 18px;
+    }
+    .lag{
+        font-family: 'Fraunces';
+        font-style: normal;
+        font-weight: 200;
+        font-size: 16px;
+        margin-left: 20px;
+    }
+    .lag img{
+      width: 20%;
+    }
+
+
+
+
+.howcan span{
+    opacity: 0 !important;
+}
+.float{
+    position:fixed;
+    width:50px;
+    height:50px;
+    bottom:40px;
+    right:40px;
+    background-color:#25d366;
+    color:#FFF;
+    border-radius:13px;
+    text-align:center;
+  font-size:30px;
+  text-decoration: none !important;
+  color: white!important;
+  z-index:100;
+}
+.my-float{
+    /* margin-top:-2px !important; */
+    font-size: 25px !important;
+    text-decoration: none !important;
+    text-align: center !important;
+    color: white!important;
+}
+
     .mbok{
         transition: none;   
     }
