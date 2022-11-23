@@ -560,7 +560,7 @@ font-style: normal;
 font-weight: 300;
 font-size: 45px;
 /* background-color: red; */
-text-transform: uppercase;
+text-transform: capitalize;
 
 color: #ffffff;
  }
@@ -578,7 +578,7 @@ font-style: normal;
 font-weight: 300;
 font-size: 45px;
 /* background-color: red; */
-text-transform: uppercase;
+text-transform: capitalize;
 
 color: #ffffff;
  }
