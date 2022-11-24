@@ -725,9 +725,19 @@ font-size: 40px;
     font-size: 17px;
     padding: 10px;  
 }
+.phew{
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 35px;
+    /* background-color: red; */
+    text-transform: capitalize;
+    
+    color: #ffffff;
+}
 
 .parallax{
-    background-image: url("../images/gallery.jpeg");
+    background-image: url("../images/hump.jpeg");
     /* Set a specific height */
     min-height: 500px;
     background-attachment: fixed;
