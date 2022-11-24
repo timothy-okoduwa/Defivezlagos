@@ -691,7 +691,13 @@ font-family: 'Fira Sans', sans-serif;
 font-size: 15px;
 }
 .aboyts{
-    margin-top: 70px;
+    /* background-color: red; */
+    padding: 50px;
+    height: 100%;
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+  flex-direction: column;
 }
 .board{
     font-family: 'Fraunces';
@@ -939,6 +945,7 @@ padding-left: 10%;
         font-weight: 200;
         font-family: 'Fira Sans', sans-serif;
         font-size: 17px;
+        /* margin: 20px; */
     }
     .rounderd{
         border-radius: 20px;
