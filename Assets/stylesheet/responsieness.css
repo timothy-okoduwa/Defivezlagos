@@ -224,7 +224,19 @@ color: #FFFFFF;
          }
 }
 @media screen and (max-width:768px) {   
-
+    .mush{
+        /* background-color: red; */
+    
+        font-weight: 400;
+        font-family: 'Fira Sans', sans-serif;
+        display: flex;
+        justify-content: center;
+        font-size: 20px;
+    }
+    .omo{
+    /* background-color: blue; */
+    width: 600px;
+    }
     .standard{
         font-family: 'Fraunces';
     font-style: normal;

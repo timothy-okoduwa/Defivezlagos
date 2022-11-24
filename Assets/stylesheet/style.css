@@ -736,6 +736,20 @@ font-size: 40px;
     color: #ffffff;
 }
 
+.mush{
+    /* background-color: red; */
+
+    font-weight: 400;
+    font-family: 'Fira Sans', sans-serif;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+.omo{
+/* background-color: blue; */
+width: 600px;
+}
+
 .parallax{
     background-image: url("../images/hump.jpeg");
     /* Set a specific height */
