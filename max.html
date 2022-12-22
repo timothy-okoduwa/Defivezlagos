@@ -3,9 +3,8 @@
 <html>
 
 <head>
-
-	<title>How to set maxlength for textarea in javascript?</title>
-
+	<title>Translate-- you're welcome Dickson 😉</title>
+  <a>this code will work</a>
 </head>
 
 <body>
@@ -13,41 +12,18 @@
 
 
 <div >
-
-
-
-	<form>
-
-		<textarea  name="message" placeholder="Write Here..." onkeydown="limitTextOnKeyUpDown(this.form.message,this.form.countdown,160);" onkeyup='limitTextOnKeyUpDown(this.form.message,this.form.countdown,160);'></textarea>
-
-        You have
-
-        <input readonly type="text" name="countdown" size="3" value="160"> chars are left
-
-	</form>
-
-
-
+  <div id="google_element" style="margin-top: 500px;"></div>
 </div>
 
 
 
-<script type="text/javascript">
+<script src="https://translate.google.com/translate_a/element.js?cb=loadGoogleTranslate"></script>
 
-    function limitTextOnKeyUpDown(limitField, limitCount, limitNum) {
-
-      if (limitField.value.length > limitNum) {
-
-        limitField.value = limitField.value.substring(0, limitNum);
-
-      } else {
-
-        limitCount.value = limitNum - limitField.value.length;
-
-      }
-
-    }
-
+<script>
+ function loadGoogleTranslate(){
+  new google.translate.TranslateElement(
+    'google_element')
+ }
 </script>
 
 
