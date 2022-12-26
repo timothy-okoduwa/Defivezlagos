@@ -224,6 +224,10 @@ color: #FFFFFF;
          }
 }
 @media screen and (max-width:768px) {   
+    .blury3{
+        padding-left: 12px;
+      
+    }
     .mush{
         /* background-color: red; */
     
