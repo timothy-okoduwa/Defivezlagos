@@ -536,8 +536,15 @@ color: #FFFFFF;
     /* background-color: red; */
     position: absolute !important;
  }
+
+.wheww{
+    background-color: #00000036;
+  
+}
+
  .except{
-z-index: 10;
+/* z-index: 10; */
+
 top: 1px;
 
 /* position: relative; */
@@ -565,7 +572,7 @@ text-transform: capitalize;
 color: #ffffff;
  }
  .exceptance{
-z-index: 10;
+/* z-index: 10; */
 top: 1px;
 
 /* position: relative; */
