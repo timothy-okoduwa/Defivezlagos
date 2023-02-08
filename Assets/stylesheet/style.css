@@ -764,7 +764,7 @@ width: 600px;
 }
 
 .parallax{
-    background-image: url("../images/hump.jpeg");
+    background-image: url("../images/parallax.jpg");
     /* Set a specific height */
     min-height: 500px;
     background-attachment: fixed;
@@ -774,7 +774,7 @@ width: 600px;
     
 }
 .parallaxm{
-    background-image: url("../images/De\ Fivez\ Menu\ IV1024_11.jpg");
+    background-image: url("../images/de.jpg");
     /* Set a specific height */
     min-height: 500px;
     background-attachment: fixed;
@@ -998,4 +998,8 @@ padding-left: 10%;
     .mdmd{
         /* background-color: yellow; */
       text-align: center;
+    }
+    .mount{
+        height: 430px;
+        object-fit: cover;
     }
