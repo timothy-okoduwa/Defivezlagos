@@ -1003,3 +1003,7 @@ padding-left: 10%;
         height: 430px;
         object-fit: cover;
     }
+    .homeimages{
+        height: 240px;
+        object-fit: cover;
+    }
