@@ -200,7 +200,7 @@ color: #FFFFFF;
         font-weight: 300;
         font-size: 80px;
         /* background-color: red; */
-        text-transform: uppercase;
+      /* text-transform: capitalize; */
         
         color: #ffffff;
          }
